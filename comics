@@ -154,7 +154,7 @@
     "search": [
         {
             "request": {
-                "url": "https://readcomiconline.li/Search/Comic",
+                "url": "https://readcomiconline.ru/Search/Comic",
                 "method": "POST",
                 "headers": [
                     {
@@ -163,7 +163,7 @@
                     },
                     {
                         "key": "Referer",
-                        "value": "https://readcomiconline.li/Search/Comic"
+                        "value": "https://readcomiconline.ru/Search/Comic"
                     }
                 ],
                 "httpBody": "keyword=<searched>"
