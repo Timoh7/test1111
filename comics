@@ -9,7 +9,7 @@
         "moduleVersion": 1.4,
         "moduleLenguage": "ENG",
         "moduleType": "Image",
-        "baseURL": "https://readcomiconline.ru/",
+        "baseURL": "https://readcomicsonline.ru/",
         "moduleDeveloperSite": "https://cyborg714.github.io/ketsu/",
         "UpdateSite": "https://raw.githubusercontent.com/Cyborg714/ketsu/main/image/readcomiconline.json",
         "preferedServer": "",
@@ -41,7 +41,7 @@
     "mainPage": [
         {
             "request": {
-                "url": "https://readcomiconline.ru/",
+                "url": "https://readcomicsonline.ru/",
                 "method": "get",
                 "headers": [
                     {
@@ -154,7 +154,7 @@
     "search": [
         {
             "request": {
-                "url": "https://readcomiconline.ru/Search/Comic",
+                "url": "https://readcomicsonline.ru/Search/Comic",
                 "method": "POST",
                 "headers": [
                     {
@@ -163,7 +163,7 @@
                     },
                     {
                         "key": "Referer",
-                        "value": "https://readcomiconline.ru/Search/Comic"
+                        "value": "https://readcomicsonline.ru/Search/Comic"
                     }
                 ],
                 "httpBody": "keyword=<searched>"
